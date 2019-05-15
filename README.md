@@ -1,7 +1,7 @@
 ![Header](https://github.com/emotitron/Simple-Network-Sync/blob/master/Docs/SNS_DocumentHeader.jpg?raw=true)
 # Simple Network Sync
 
-[**Download Current Alpha** - Unity Package Download](https://github.com/emotitron/SimpleSyncAlpha/releases)
+[**Download Current Alpha** - Unity Package Download](https://github.com/emotitron/Simple-Network-Sync/releases/tag/0.2a)
 
 There are two primary components.
 
