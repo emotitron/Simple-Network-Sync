@@ -1,5 +1,8 @@
 ![Header](https://github.com/emotitron/Simple-Network-Sync/blob/master/Docs/SNS_DocumentHeader.jpg?raw=true)
 # Simple Network Sync
+This project is an Alpha of the Asset Store replacement library for Network Sync Transform, which is becoming very old and hard to maintain. The components used in this are more in line with the determinstic server authority networking library I am working on, so they will be supported and worked on regulary. Once out of Alpha the components will be for charge on the Asset Store, but anyone helping with the testing I will just let have them, as well as access to fixes and such.
+
+Please give these a try and let me know how you are able to break them, so I can make them indestructible.
 
 [**Download Current Alpha** - Unity Package Download](https://github.com/emotitron/Simple-Network-Sync/releases/tag/0.2a)
 
