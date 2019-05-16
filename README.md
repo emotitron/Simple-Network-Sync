@@ -8,6 +8,8 @@ Please give these a try and let me know how you are able to break them, so I can
 
 There are two primary components.
 
+**Note: The order of SimpleSyncTransform and SimpleSyncAnimator affect the order in which they are applied, which for objects with root motion can have interesting results if the Animator is before the Transform sync. So in summary, put the SyncTransform above the SyncAnimator in the inspector.**
+
 ## SimpleSyncTransform
 A replacement for NetworkTransform or PhotonTransformView. Use as you would NetworkTransform.
 
