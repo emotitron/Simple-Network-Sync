@@ -12,6 +12,7 @@ There are two primary components.
 
 ## SimpleSyncTransform
 ![SyncTransform](https://github.com/emotitron/Simple-Network-Sync/blob/master/Docs/Unity_2019-05-19_00-33-06.png?raw=truee)
+
 A replacement for NetworkTransform or PhotonTransformView. Use as you would NetworkTransform.
 
 ## SimpleSyncAnimator
