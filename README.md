@@ -4,7 +4,7 @@ This project is an Alpha of the Asset Store replacement library for Network Sync
 
 Please give these a try and let me know how you are able to break them, so I can make them indestructible.
 
-[**Download Current Alpha** - Unity Package Download](https://github.com/emotitron/Simple-Network-Sync/releases/tag/0.2a)
+[**Download Current Beta** - Unity Package Download](https://github.com/emotitron/Simple-Network-Sync/releases/tag/0.2a)
 
 There are two primary components.
 
