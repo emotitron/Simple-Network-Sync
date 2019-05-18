@@ -11,9 +11,12 @@ There are two primary components.
 **Note: The order of SimpleSyncTransform and SimpleSyncAnimator affect the order in which they are applied, which for objects with root motion can have interesting results if the Animator is before the Transform sync. So in summary, put the SyncTransform above the SyncAnimator in the inspector.**
 
 ## SimpleSyncTransform
+![SyncTransform](https://github.com/emotitron/Simple-Network-Sync/blob/master/Docs/Unity_2019-05-19_00-33-06.png?raw=truee)
 A replacement for NetworkTransform or PhotonTransformView. Use as you would NetworkTransform.
 
 ## SimpleSyncAnimator
+![SyncAnimator](https://github.com/emotitron/Simple-Network-Sync/blob/master/Docs/Unity_2019-05-19_00-31-58.png?raw=true)
+
 A replacement for NetworkAnimator or PhotonAnimatorView. Drag it on to a gameobject where an Animator exists, similar to how you use NetworkAnimator. More instructions to come.
 
 Let me know how these break for you. I would like it to be able to handle all edge cases, so the more ways you can break it... the better.
